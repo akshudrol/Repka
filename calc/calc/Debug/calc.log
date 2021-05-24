@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Даша\source\repos\calc\calc\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\Даша\source\repos\calc\calc\MyForm.h(259): warning C4715: 'calc::MyForm::Protect': not all control paths return a value
+C:\Users\Даша\source\repos\calc\calc\MyForm.h(244): warning C4700: uninitialized local variable 'i' used
+C:\Users\Даша\source\repos\calc\calc\MyForm.h(250): warning C4700: uninitialized local variable 'i' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  calc.vcxproj -> C:\Users\Даша\source\repos\calc\Debug\calc.exe

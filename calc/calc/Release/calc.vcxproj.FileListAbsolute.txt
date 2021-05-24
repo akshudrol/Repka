@@ -1,0 +1,2 @@
+C:\Users\Даша\source\repos\calc\calc\Release\calc.MyForm.resources
+C:\Users\Даша\source\repos\calc\calc\Release\calc.vcxproj.GenerateResource.cache
